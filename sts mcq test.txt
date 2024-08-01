@@ -31,4 +31,5 @@ In the terminal
     git commit -m 'Commit message'
     git remote add origin 'Github repository URL'
     git push origin main
-    
+    Enter Github username
+    Enter Github password or access token
